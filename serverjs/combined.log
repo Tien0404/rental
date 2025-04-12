@@ -1,0 +1,730 @@
+2024-11-22T05:47:59.456Z [INFO] - Request: GET /api/t
+2024-11-23T06:39:35.913Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T07:09:28.672Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T12:27:27.636Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T12:28:34.606Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T12:31:40.451Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T12:38:37.597Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-23T13:05:32.352Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-24T00:28:58.304Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-24T00:33:31.754Z [ERROR] - PayloadTooLargeError: request entity too large
+    at readStream (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:163:17)
+    at getRawBody (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\raw-body\index.js:116:12)
+    at read (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\read.js:79:3)
+    at jsonParser (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\body-parser\lib\types\json.js:138:5)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:328:13)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at cors (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\cors\lib\index.js:188:7)
+2024-11-25T00:03:50.778Z [ERROR] - MongoServerSelectionError: getaddrinfo ENOTFOUND rentalsystem-shard-00-00.fkkfm.mongodb.net
+    at Topology.selectServer (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\sdam\topology.js:303:38)
+    at async tryOperation (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\operations\execute_operation.js:138:18)
+    at async executeOperation (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async FindCursor._initialize (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\cursor\find_cursor.js:51:26)
+    at async FindCursor.cursorInit (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\cursor\abstract_cursor.js:495:27)
+    at async FindCursor.fetchBatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\cursor\abstract_cursor.js:527:13)
+    at async FindCursor.next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\cursor\abstract_cursor.js:239:13)
+    at async Collection.findOne (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongodb\lib\collection.js:274:21)
+    at async model.Query._findOne (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongoose\lib\query.js:2639:15)
+    at async model.Query.exec (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongoose\lib\query.js:4449:63)
+2024-11-25T01:04:14.198Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+2024-11-25T01:06:34.346Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+2024-11-25T01:09:23.836Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+<<<<<<< HEAD
+2024-11-29T06:07:20.380Z [INFO] - Request: GET /Payment
+2024-11-29T06:07:27.615Z [INFO] - Request: GET /Payment
+2024-11-29T06:07:37.489Z [INFO] - Request: GET /Payment
+2024-11-29T06:08:02.607Z [INFO] - Request: GET /Payment
+2024-11-29T06:08:57.612Z [INFO] - Request: POST /api/momo/paymentMoMo
+2024-11-29T06:08:58.731Z [INFO] - Request: POST /api/momo/paymentMoMo
+2024-11-29T06:09:15.036Z [INFO] - Request: POST /api/vnpay/paymentVNPAY
+2024-11-29T06:16:00.804Z [INFO] - Request: POST /api/vnpay/paymentVNPAY
+2024-11-30T01:53:16.635Z [INFO] - Request: POST /api/vnpay/payment
+2024-11-30T01:57:59.686Z [INFO] - Request: POST /api/vnpay/payment
+2024-11-30T01:58:33.247Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T02:27:50.907Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T03:00:17.570Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T03:18:10.576Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:00:18.570Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:01:05.719Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:01:20.603Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:02:21.880Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:09:03.727Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:09:18.705Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:44:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:09:52.772Z [ERROR] - TypeError: config.get is not a function
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:42:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:47:12)
+2024-11-30T04:15:14.922Z [ERROR] - TypeError: config.get is not a function
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:46:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:47:12)
+2024-11-30T04:15:50.004Z [ERROR] - TypeError: config.get is not a function
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:46:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:47:12)
+2024-11-30T04:17:45.566Z [ERROR] - TypeError: config.get is not a function
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:46:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:47:12)
+2024-11-30T04:33:20.844Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:47:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:36:22.661Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\vnPayRoute.js:47:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:43:09.459Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\order.js:47:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:43:12.525Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\order.js:47:24
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:47:12.173Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\order.js:33:26
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-11-30T04:48:40.839Z [ERROR] - Error: Configuration property "vnp_TmnCode" is not defined
+    at Config.get (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\config\lib\config.js:181:11)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\src\routers\order.js:33:26
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\layer.js:95:5)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\express\lib\router\index.js:175:3)
+2024-12-04T05:46:26.279Z [INFO] - Request: GET /api/momo/callbackMoMo
+2024-12-04T05:46:43.444Z [INFO] - Request: GET /api/momo/callbackMoMo
+2024-12-04T05:46:49.116Z [INFO] - Request: GET /favicon.ico
+2024-12-04T05:46:58.721Z [INFO] - Request: GET /api/momo/paymentMoMo
+2024-12-04T05:47:08.608Z [INFO] - Request: GET /api/momo/check-status-transaction-MoMo
+2024-12-04T05:47:42.906Z [INFO] - Request: GET /api/momo/callbackMoMo
+2024-12-04T07:49:05.297Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+2024-12-04T07:55:18.871Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+2024-12-04T07:55:46.206Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+2024-12-04T07:56:02.878Z [ERROR] - MulterError: Unexpected field
+    at wrappedFileFilter (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\index.js:40:19)
+    at Multipart.<anonymous> (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\multer\lib\make-middleware.js:107:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:564:12)
+=======
+2024-11-29T03:27:47.573Z [INFO] - Request: GET /
+2024-11-29T03:27:57.641Z [INFO] - Request: GET /api/categories
+2024-11-29T03:27:57.649Z [INFO] - Request: GET /api/categories
+2024-11-29T03:27:57.652Z [INFO] - Request: GET /api/posts
+2024-11-29T03:27:57.660Z [INFO] - Request: GET /api/categories
+2024-11-29T03:29:40.001Z [INFO] - Request: GET /
+2024-11-29T03:38:37.016Z [INFO] - Request: GET /api/categories
+2024-11-29T03:39:17.656Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:39:18.756Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:39:48.216Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:40:02.103Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:40:09.231Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:40:09.851Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:41:00.250Z [INFO] - Request: GET /
+2024-11-29T03:41:20.874Z [INFO] - Request: POST /
+2024-11-29T03:41:26.845Z [INFO] - Request: GET /
+2024-11-29T03:41:27.478Z [INFO] - Request: GET /
+2024-11-29T03:41:28.724Z [INFO] - Request: GET /
+2024-11-29T03:41:37.780Z [INFO] - Request: GET /api/categories
+2024-11-29T03:41:37.784Z [INFO] - Request: GET /api/posts
+2024-11-29T03:41:37.788Z [INFO] - Request: GET /api/categories
+2024-11-29T03:41:37.797Z [INFO] - Request: GET /api/categories
+2024-11-29T03:41:39.332Z [INFO] - Request: GET /api/categories
+2024-11-29T03:41:55.717Z [INFO] - Request: GET /api/categories
+2024-11-29T03:41:57.447Z [INFO] - Request: GET /api/categories
+2024-11-29T03:42:11.840Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:42:12.780Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:42:21.804Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:42:22.611Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:43:54.554Z [INFO] - Request: GET /
+2024-11-29T03:43:56.900Z [INFO] - Request: GET /
+2024-11-29T03:45:00.429Z [INFO] - Request: GET /api/categories
+2024-11-29T03:45:00.437Z [INFO] - Request: GET /api/categories
+2024-11-29T03:45:00.440Z [INFO] - Request: GET /api/posts
+2024-11-29T03:45:00.453Z [INFO] - Request: GET /api/categories
+2024-11-29T03:45:17.491Z [INFO] - Request: GET /
+2024-11-29T03:45:19.412Z [INFO] - Request: GET /
+2024-11-29T03:48:27.113Z [INFO] - Request: GET /
+2024-11-29T03:48:27.980Z [INFO] - Request: GET /
+2024-11-29T03:48:28.232Z [INFO] - Request: GET /
+2024-11-29T03:48:28.425Z [INFO] - Request: GET /
+2024-11-29T03:50:04.374Z [INFO] - Request: GET /
+2024-11-29T03:50:06.929Z [INFO] - Request: GET /
+2024-11-29T03:50:08.011Z [INFO] - Request: GET /
+2024-11-29T03:51:13.294Z [INFO] - Request: GET /api/categories
+2024-11-29T03:51:13.300Z [INFO] - Request: GET /api/posts
+2024-11-29T03:51:13.311Z [INFO] - Request: GET /api/categories
+2024-11-29T03:51:13.325Z [INFO] - Request: GET /api/categories
+2024-11-29T03:52:51.791Z [INFO] - Request: GET /api/categories
+2024-11-29T03:52:51.820Z [INFO] - Request: GET /api/posts
+2024-11-29T03:52:51.898Z [INFO] - Request: GET /api/categories
+2024-11-29T03:52:51.973Z [INFO] - Request: GET /api/categories
+2024-11-29T03:52:59.532Z [INFO] - Request: GET /
+2024-11-29T03:52:59.568Z [INFO] - Request: GET /favicon.ico
+2024-11-29T03:53:04.214Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:04.220Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:04.227Z [INFO] - Request: GET /api/posts/672c110fc8476983f90b5aa8
+2024-11-29T03:53:04.292Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:04.820Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:08.001Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:08.005Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:08.091Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:08.172Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:09.250Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:09.254Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:09.260Z [INFO] - Request: GET /api/posts/672cc65755865977debb57dc
+2024-11-29T03:53:09.325Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:09.824Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:14.331Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:14.334Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:14.421Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:14.506Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:22.191Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:22.196Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:22.269Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:24.083Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:36.010Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:53:42.866Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:53:51.311Z [INFO] - Request: POST /api/auth/login
+2024-11-29T03:53:51.643Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:51.646Z [INFO] - Request: GET /api/posts
+2024-11-29T03:53:51.721Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:51.806Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:54.672Z [INFO] - Request: GET /api/categories
+2024-11-29T03:53:54.743Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:01.692Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:04.776Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:08.710Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:08.712Z [INFO] - Request: GET /api/posts
+2024-11-29T03:54:09.924Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:10.001Z [INFO] - Request: GET /api/categories
+2024-11-29T03:54:12.278Z [INFO] - Request: GET /api/categories
+2024-11-29T03:58:38.166Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:13.656Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:13.659Z [INFO] - Request: GET /api/posts
+2024-11-29T04:00:13.739Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:13.820Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:18.468Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:35.716Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:35.722Z [INFO] - Request: GET /api/posts
+2024-11-29T04:00:35.812Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:35.895Z [INFO] - Request: GET /api/categories
+2024-11-29T04:00:38.409Z [INFO] - Request: GET /api/categories
+2024-11-29T04:03:39.050Z [INFO] - Request: GET /api/categories
+2024-11-29T04:03:39.056Z [INFO] - Request: GET /api/posts
+2024-11-29T04:03:39.133Z [INFO] - Request: GET /api/categories
+2024-11-29T04:03:39.214Z [INFO] - Request: GET /api/categories
+2024-11-29T04:03:40.493Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:43.296Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:43.304Z [INFO] - Request: GET /api/posts
+2024-11-29T04:06:43.379Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:43.467Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:45.596Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:53.189Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:53.193Z [INFO] - Request: GET /api/posts
+2024-11-29T04:06:53.313Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:53.407Z [INFO] - Request: GET /api/categories
+2024-11-29T04:06:55.777Z [INFO] - Request: GET /api/categories
+2024-11-29T04:08:18.379Z [INFO] - Request: GET /api/categories
+2024-11-29T04:22:36.202Z [INFO] - Request: GET /api/categories
+2024-11-29T04:22:36.212Z [INFO] - Request: GET /api/posts
+2024-11-29T04:22:36.219Z [INFO] - Request: GET /api/categories
+2024-11-29T04:22:36.224Z [INFO] - Request: GET /api/categories
+2024-11-29T04:30:20.605Z [INFO] - Request: GET /api/categories
+2024-11-29T04:30:23.447Z [INFO] - Request: GET /
+2024-11-29T04:30:24.551Z [INFO] - Request: GET /
+2024-11-29T04:30:31.138Z [INFO] - Request: GET /api/categories
+2024-11-29T04:30:31.145Z [INFO] - Request: GET /api/posts
+2024-11-29T04:30:31.151Z [INFO] - Request: GET /api/categories
+2024-11-29T04:30:31.156Z [INFO] - Request: GET /api/categories
+2024-11-29T04:33:55.675Z [INFO] - Request: GET /api/categories
+2024-11-29T04:33:55.680Z [INFO] - Request: GET /api/categories
+2024-11-29T04:33:59.884Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:02.477Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:02.481Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:04.291Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:05.707Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:05.711Z [INFO] - Request: GET /api/posts
+2024-11-29T04:34:05.716Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:05.720Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:09.746Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:11.523Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:11.527Z [INFO] - Request: GET /api/posts
+2024-11-29T04:34:11.530Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:11.535Z [INFO] - Request: GET /api/categories
+2024-11-29T04:34:12.705Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:49.374Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:49.377Z [INFO] - Request: GET /api/posts
+2024-11-29T04:35:49.381Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:49.385Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:53.764Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:55.673Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:55.677Z [INFO] - Request: GET /api/posts
+2024-11-29T04:35:55.681Z [INFO] - Request: GET /api/categories
+2024-11-29T04:35:55.686Z [INFO] - Request: GET /api/categories
+2024-11-29T04:36:00.702Z [INFO] - Request: GET /api/categories
+2024-11-29T04:36:45.406Z [INFO] - Request: GET /api/categories
+2024-11-29T04:36:45.410Z [INFO] - Request: GET /api/posts
+2024-11-29T04:36:45.415Z [INFO] - Request: GET /api/categories
+2024-11-29T04:36:45.420Z [INFO] - Request: GET /api/categories
+2024-11-29T04:43:47.261Z [INFO] - Request: GET /
+2024-11-29T04:48:25.055Z [INFO] - Request: GET /
+2024-11-29T05:07:22.227Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:22.234Z [INFO] - Request: GET /api/posts
+2024-11-29T05:07:22.240Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:22.248Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:28.476Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:28.480Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:31.483Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:32.826Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:32.836Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:32.838Z [INFO] - Request: GET /api/posts
+2024-11-29T05:07:32.852Z [INFO] - Request: GET /api/categories
+2024-11-29T05:07:44.025Z [INFO] - Request: GET /
+2024-11-29T05:07:44.222Z [INFO] - Request: GET /
+2024-11-29T05:07:44.403Z [INFO] - Request: GET /
+2024-11-29T05:09:26.783Z [INFO] - Request: GET /api/categories
+2024-11-29T05:09:26.801Z [INFO] - Request: GET /api/categories
+2024-11-29T05:09:26.802Z [INFO] - Request: GET /api/posts
+2024-11-29T05:10:51.930Z [INFO] - Request: GET /
+2024-11-29T05:10:56.091Z [INFO] - Request: GET /
+2024-11-29T05:10:56.276Z [INFO] - Request: GET /
+2024-11-29T05:10:56.432Z [INFO] - Request: GET /
+2024-11-29T05:10:56.616Z [INFO] - Request: GET /
+2024-11-29T05:11:24.503Z [INFO] - Request: GET /
+2024-11-29T05:11:29.491Z [INFO] - Request: GET /
+2024-11-29T05:11:33.368Z [INFO] - Request: POST /
+2024-11-29T05:16:17.335Z [INFO] - Request: GET /
+2024-11-29T05:16:18.235Z [INFO] - Request: GET /
+2024-11-29T05:16:18.900Z [INFO] - Request: GET /
+2024-11-29T05:17:36.750Z [INFO] - Request: GET /
+2024-11-29T05:17:36.931Z [INFO] - Request: GET /
+2024-11-29T05:17:37.445Z [INFO] - Request: GET /
+2024-11-29T05:17:37.618Z [INFO] - Request: GET /
+2024-11-29T05:17:37.795Z [INFO] - Request: GET /
+2024-11-29T05:19:54.330Z [INFO] - Request: GET /
+2024-11-29T05:19:54.551Z [INFO] - Request: GET /
+2024-11-29T05:19:54.742Z [INFO] - Request: GET /
+2024-11-29T05:20:33.635Z [INFO] - Request: GET /
+2024-11-29T05:20:34.425Z [INFO] - Request: GET /
+2024-11-29T05:20:34.693Z [INFO] - Request: GET /
+2024-11-29T05:25:37.411Z [INFO] - Request: GET /
+2024-11-29T05:26:20.488Z [INFO] - Request: GET /
+2024-11-29T05:26:26.582Z [INFO] - Request: GET /payment
+2024-11-29T05:26:33.059Z [INFO] - Request: GET /payment
+2024-11-29T05:27:27.643Z [INFO] - Request: GET /api/categories
+2024-11-29T05:27:27.648Z [INFO] - Request: GET /api/posts
+2024-11-29T05:27:27.654Z [INFO] - Request: GET /api/categories
+2024-11-29T05:27:27.662Z [INFO] - Request: GET /api/categories
+2024-11-29T05:28:55.000Z [INFO] - Request: GET /payment
+2024-11-29T05:28:59.161Z [INFO] - Request: GET /
+2024-11-29T05:29:42.057Z [INFO] - Request: GET /
+2024-11-29T05:29:42.717Z [INFO] - Request: GET /
+2024-11-29T05:29:42.940Z [INFO] - Request: GET /
+2024-11-29T05:29:43.126Z [INFO] - Request: GET /
+2024-11-29T05:29:43.369Z [INFO] - Request: GET /
+2024-11-29T05:29:43.565Z [INFO] - Request: GET /
+2024-11-29T05:29:43.757Z [INFO] - Request: GET /
+2024-11-29T05:29:43.925Z [INFO] - Request: GET /
+2024-11-29T05:29:44.118Z [INFO] - Request: GET /
+2024-11-29T05:29:44.310Z [INFO] - Request: GET /
+2024-11-29T05:30:43.878Z [INFO] - Request: GET /favicon.ico
+2024-11-29T05:32:48.075Z [INFO] - Request: POST /payment
+2024-11-29T05:39:43.435Z [INFO] - Request: GET /payment
+>>>>>>> dc56269a010e24dbe2173911b5bba7da61537a7b
+2024-12-05T13:54:21.824Z [INFO] - Request: GET /favicon.ico
+2024-12-06T09:44:23.836Z [INFO] - Request: GET /api/payments
+2024-12-06T09:46:18.413Z [INFO] - Request: GET /api/post
+2024-12-09T16:38:54.537Z [INFO] - Request: GET /api/
+2024-12-09T17:02:34.256Z [INFO] - Request: GET /api/user
+2024-12-09T17:03:25.604Z [INFO] - Request: GET /api/
+2024-12-09T17:04:08.885Z [INFO] - Request: GET /api/
+2024-12-10T13:16:11.186Z [INFO] - Request: DELETE /api/post/67583edf67d658e3efc25581
+2024-12-11T00:45:48.803Z [ERROR] - ValidationError: User validation failed: role: `tenant` is not a valid enum value for path `role`.
+    at Document.invalidate (C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongoose\lib\document.js:3318:32)
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongoose\lib\document.js:3079:17
+    at C:\xampp\htdocs\DOANNHOM1\serverjs\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2024-12-12T11:51:10.370Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:28:39.648Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:28:49.143Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:41:11.814Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:42:17.458Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:43:57.377Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-12T15:46:10.574Z [INFO] - Request: GET /api/payments/history/67430976939fa8e3965a9b7f
+2024-12-19T05:37:43.903Z [INFO] - Request: GET /api/payments/history/675b071e2285d74758e5ce1a
+2024-12-19T05:39:25.588Z [INFO] - Request: GET /api/payments/history/675b071e2285d74758e5ce1a
+2024-12-19T05:41:17.584Z [INFO] - Request: GET /api/payments/history/675b071e2285d74758e5ce1a
+2024-12-19T05:43:10.687Z [INFO] - Request: GET /api/payments/history/675b071e2285d74758e5ce1a
+2024-12-19T13:34:09.913Z [INFO] - Request: GET /api/posts/api/posts?categoryId=672236cb108b950335458b0b
+2024-12-19T13:34:11.964Z [INFO] - Request: GET /api/posts/api/posts?categoryId=672236cb108b950335458b0e
+2024-12-19T13:34:14.280Z [INFO] - Request: GET /api/posts/api/posts?categoryId=672236cb108b950335458b0c
+2024-12-20T01:13:37.445Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:13:57.737Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:15:59.804Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:17:13.335Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:18:34.224Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:19:07.912Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:21:28.923Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:23:30.828Z [INFO] - Request: GET /favicon.ico
+2024-12-20T01:23:36.436Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:23:53.066Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:24:27.589Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:24:44.156Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2024-12-20T01:25:50.723Z [ERROR] - Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\node_modules\jsonwebtoken\sign.js:213:22)
+    at generateAccessToken (C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:14:14)
+    at C:\Users\LENOVO-PC\New folder\Rental-app-Nodejs\serverjs\src\controllers\auth.controller.js:91:23
+2025-04-11T05:27:38.183Z [INFO] - Request: GET /favicon.ico
+2025-04-11T06:25:22.135Z [INFO] - Request: GET /favicon.ico
+2025-04-11T06:49:58.956Z [INFO] - Request: GET /api/auth/google/callback.
