@@ -1,4 +1,4 @@
-# RentEase - Nền tảng cho thuê phòng trọ toàn diện
+# Nền tảng cho thuê phòng trọ toàn diện
 
 ![RentEase Logo](https://via.placeholder.com/200x200.png?text=RentEase)
 
